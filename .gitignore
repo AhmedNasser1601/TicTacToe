@@ -1,0 +1,36 @@
+# Ignore Gradle files
+.gradle/
+build/
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore Eclipse-specific files
+.classpath
+.project
+.settings/
+
+# Ignore NetBeans-specific files
+nbproject/
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore Windows-specific files
+Thumbs.db
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+
+# Ignore local configuration files
+local.properties
+
+# Ignore generated files
+bin/
+out/
+
+# Ignore any other custom files or directories you don't want to track
